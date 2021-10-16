@@ -1,5 +1,5 @@
 # AnymoProject
-Create a carousel to be used as an imported package for external users. Designed a SwiftUI carousel component to be used similar to how Anymo's carousels are used for its end-users. Completed as a interview-project for Anymo.
+Create a carousel to be used as an imported module for external users. Designed a SwiftUI carousel component to be used similar to how Anymo's carousels are used for its end-users. Completed as a interview-project for Anymo.
 
 
 ### Installation
