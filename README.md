@@ -1,4 +1,6 @@
 # AnymoProject
+![610170de458eeaa19d3d92d0_anymo-3](https://user-images.githubusercontent.com/64529785/137602795-4cae37b9-aeef-4e7d-ae86-9abeaa6cc484.png)
+
 Create a carousel to be used as an imported module for external users. Designed a SwiftUI carousel component to be used similar to how Anymo's carousels are used for its end-users. Completed as a interview-project for Anymo.
 
 
